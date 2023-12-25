@@ -1,0 +1,17 @@
+{
+    "name": "Chatbot PWA",
+    "short_name": "Chatbot",
+    "description": "Progressive Web Application with a chatbot and audio recording/playback",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#4CAF50",
+    "icons": [
+      {
+        "src": "icon.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      }
+    ]
+  }
+  
