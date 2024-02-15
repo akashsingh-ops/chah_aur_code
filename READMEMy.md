@@ -13,3 +13,7 @@ Context API allows data to be passed through a component tree without having to 
 <!-- redux -->
 
 it's mostly used as a state management tool(idhar udhar jo data passed ho rh ) with React, you can use Redux with any other JavaScript framework or library.
+
+independent lib ,data flow(the data go in a one way and update the content and back ) is more strng then context api.
+
+we should never change the state , there is no direct change only done my reducer.
